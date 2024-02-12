@@ -1,0 +1,73 @@
+body {
+  font-family: 'Raleway', sans-serif;
+  background-color: #344a72;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  margin-top: 20px;
+  margin-left: 20px;
+  width: 270px;
+  background-color: white;
+  text-align: center;
+  line-height: 20px;
+  padding: 20px;
+
+}
+
+.heading {
+  font-weight: 400;
+}
+
+.desc {
+  font-size: 14px;
+  margin-bottom: 15px;
+}
+
+.form {
+  text-align: start;
+}
+
+.form label {
+  font-size: 18px;
+  margin-bottom: 0;
+}
+
+input {
+  width: 245px;
+  padding: 7px;
+  margin-bottom: 10px;
+}
+
+button {
+  width: 263px;
+  padding: 12px;
+  background-color: #49c1a2;
+  border: none;
+  color: white;
+  cursor: pointer;
+}
+
+.policy {
+  width: 263px;
+  text-align: center;
+  font-size: 12px;
+  word-spacing: 1px;
+}
+
+.policy a {
+  text-decoration: none;
+}
+
+.acc-info {
+  color: white;
+  margin-top: 12px;
+  text-align: center;
+
+}
+
+.acc-info a {
+  text-decoration: none;
+  color: #49c1a2;
+}
